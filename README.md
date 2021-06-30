@@ -1,6 +1,7 @@
-### Hi there 👋, Im Ivan!
-- 🔭 I’m currently working on different projects while learning programming in most different languages
-
+### Hi there 👋, I'm Ivan!
+- 🔭 I’m currently working on different projects and learning programming in most interesting languages
+- 📚 The Student of Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
+- 💻 Specialty: Information Systems and Technologies
 <!--
 **BobbyGoop/BobbyGoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Some info about my GitHab stats
+## Some statistics for motivation
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&show_icons=true&hide_border=true)
 <br />
 ![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BobbyGoop&layout=compact&langs_count=8&hide_border=true)
