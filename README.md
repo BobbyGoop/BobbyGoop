@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ivan!
+## Hi there 👋, I'm Ivan!
 - 🔭 I’m currently working on different projects and learning programming in most interesting languages
 - 📚 The Student of Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 - 💻 Specialty: Information Systems and Technologies
