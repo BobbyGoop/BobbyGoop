@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## Some statistics for motivation
-![My github stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&show_icons=true&hide_border=true)
+[![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BobbyGoop&layout=compact&langs_count=8&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
