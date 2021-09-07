@@ -22,14 +22,14 @@ Information Systems and Technologies
 ![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border=True)
 <br />
 
-<table width="100%" cellpadding="5" bgcolor = "white" bordercolor = "white">
+<table bgcolor = "white" bordercolor = "white">
    <tr>
-    <td valign="top" align ="center" width="50%" >
+    <td valign="top" align ="center" >
      <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True"
         <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True">
       </a>
      </td>
-    <td valign="top" align ="center" width="50%" >
+    <td valign="top" align ="center" >
       <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border=True">
         <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border=True">
       </a>
