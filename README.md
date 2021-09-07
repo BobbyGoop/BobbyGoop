@@ -19,5 +19,5 @@ Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 Information Systems and Technologies
 
 ## Some statistics for motivation
-[![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide=stars)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br />
