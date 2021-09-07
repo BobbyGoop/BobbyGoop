@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📚 ***Education***
+Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 
-- 📚 ***Education***: Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
-*********************************************************************************************
-- 💻 ***Specialty***: Information Systems and Technologies
-*********************************************************************************************
+## 💻 ***Specialty***
+Information Systems and Technologies
 
 ## Some statistics for motivation
 [![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
