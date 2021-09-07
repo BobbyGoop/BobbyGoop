@@ -25,14 +25,14 @@ Information Systems and Technologies
 -->
 <table bgcolor = "#ffffff" bordercolor = "#ffffff" width = 100%>
    <tr>
-    <td valign="top" align ="center" width = 55%>
-     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True">
+    <td valign="top" align ="center" width = 50%>
+     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&line_height=5">
         <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True">
       </a>
      </td>
-    <td valign="top" align ="center" width = 45% >
+    <td valign="top" align ="center" width = 50% >
       <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&card_width=5">
       </a>
      </td>
    </tr>
