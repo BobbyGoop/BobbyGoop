@@ -26,7 +26,7 @@ Information Systems and Technologies
 <table bgcolor = "#ffffff" bordercolor = "#ffffff" width = 100%>
    <tr>
     <td valign="top" align ="center" width = 50%>
-     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&line_height=5">
+     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&line_height=50">
         <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True">
       </a>
      </td>
