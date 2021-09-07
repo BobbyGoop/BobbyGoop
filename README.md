@@ -1,7 +1,3 @@
-## Hi there 👋, I'm Ivan!
-- 🔭 I’m currently working on different projects and learning programming in most interesting languages
-- 📚 The Student of Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
-- 💻 Specialty: Information Systems and Technologies
 <!--
 **BobbyGoop/BobbyGoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 ***Education***: Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
+*********************************************************************************************
+- 💻 ***Specialty***: Information Systems and Technologies
+*********************************************************************************************
 
 ## Some statistics for motivation
 [![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop)](https://github.com/anuraghazra/github-readme-stats)
