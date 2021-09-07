@@ -27,7 +27,7 @@ Information Systems and Technologies
    <tr>
     <td valign="top" align ="center">
      <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true&show_icons=true&custom_title=GitHub%20Stats">
-        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true&show_icons=true&custom_title="GitHub Stats"">
+        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true&show_icons=true&custom_title=GitHub%20Stats">
       </a>
      </td>
     <td valign="top" align ="center">
