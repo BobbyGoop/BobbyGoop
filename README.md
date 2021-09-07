@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📚 ***Education***
+## 📚 *Education*
 Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 
-## 💻 ***Specialty***
+## 💻 *Specialty*
 Information Systems and Technologies
 
-## Some statistics for motivation
+## ⚡ *IT Progress*
 <!--
 ![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border=True)
 <br />
@@ -26,8 +26,8 @@ Information Systems and Technologies
 <table bgcolor = "#ffffff" bordercolor = "#ffffff" width = 100% style='border-radius: 15px'>
    <tr>
     <td valign="top" align ="center">
-     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true">
-        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true">
+     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true&show_icons=true&custom_title="GitHub Stats"">
+        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=true&show_icons=true&custom_title="GitHub Stats"">
       </a>
      </td>
     <td valign="top" align ="center">
