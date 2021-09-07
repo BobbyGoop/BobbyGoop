@@ -23,16 +23,16 @@ Information Systems and Technologies
 ![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border=True)
 <br />
 -->
-<table bgcolor = "#ffffff" bordercolor = "#ffffff" width = 100%>
+<table bgcolor = "#ffffff" bordercolor = "#ffffff" width = 100% border-radius = 10px>
    <tr>
     <td valign="top" align ="center">
-     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True">
-        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True">
+     <a href = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border = true">
+        <img src = "https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border = true">
       </a>
      </td>
     <td valign="top" align ="center">
-      <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact">
+      <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border = true">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&hide_border = true">
       </a>
      </td>
    </tr>
