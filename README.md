@@ -19,7 +19,7 @@ Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 Information Systems and Technologies
 
 ## Some statistics for motivation
-[![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)]
+![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=10&layout=compact&hide_border=True)]
 <br />
@@ -27,7 +27,7 @@ Information Systems and Technologies
 <table border="1">
    <caption>Таблица размеров обуви</caption>
    <tr>
-    <th><a href=https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True></a></th>
+    <th>![Ivan Svezhenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyGoop&count_private=True&hide_border=True)</a></th>
     <th>Великобритания</th>
     <th>Европа</th>
     <th>Длина ступни, см</th>
