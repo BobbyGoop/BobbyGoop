@@ -31,8 +31,8 @@ Information Systems and Technologies
       </a>
      </td>
     <td valign="top" align ="center" width = 50% >
-      <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&card_width=40">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&card_width=40">
+      <a href ="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&card_width=400">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyGoop&langs_count=8&layout=compact&card_width=400">
       </a>
      </td>
    </tr>
