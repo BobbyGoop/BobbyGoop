@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## 📚 *Education*
+Bachelor degree in computer science
 Saint-Petersburg State University of Aerospace Instrumentation (SUAI)
 
 ## 💻 *Specialty*
-Information Systems and Technologies
+Information Systems and Technologies in Media Industry
 
 ## ⚡ *IT Progress*
 
